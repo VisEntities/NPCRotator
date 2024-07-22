@@ -11,7 +11,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("NPC Rotator", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Lets you rotate npcs and players to face a specific direction using a hammer.")]
     public class NPCRotator : RustPlugin
     {
         #region Fields
